@@ -1,0 +1,355 @@
+# Este arquivo viminfo foi gerado pelo Vim 7.4.
+# Você pode editá-lo se for cuidadoso!
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último padrão de busca :
+~MSle0~/EPSG:
+
+# Histórico de Linha de comando (mais recente primeiro):
+:q!
+:wq
+:Q1
+:q1
+:set ff=unix
+:wq!
+:74
+
+# Histórico de Expressões de busca (mais recente primeiro):
+?/EPSG:
+?/EPSFG:
+?/EPS
+?/900
+?/localhost
+?/ALLO
+?/Max
+?/Maz
+?/ALL
+?/GOO
+?/googe
+?/8080
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Registradores:
+"0	LINE	0
+	DEFAULT_MAP_CRS = "EPSG:4326"
+"1	LINE	0
+	DEFAULT_MAP_CRS = "EPSG:4326"
+"2	LINE	0
+	DEFAULT_MAP_CRS = "EPSG:4326"
+"3	LINE	0
+	DEFAULT_MAP_CRS = "EPSG:4326"
+"4	LINE	0
+	DEFAULT_MAP_CRS = "EPSG:4326"
+"5	LINE	0
+	    #ProxyPass /geoserver http://webserver.geomatica.ufpr.br/geoserver
+"6	LINE	0
+	      <Host name="webserver.geomatica.ufpr.br"  appBase="webapps"
+	            unpackWARs="true" autoDeploy="true">
+	       <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs"
+	              prefix="webserver_access_log" suffix=".txt"
+	              pattern="%h %l %u %t &quot;%r&quot; %s %b" />
+	      </Host>
+"7	LINE	0
+	ALLOWED_HOSTS = [urlparse(SITEURL).hostname] if os.getenv('ALLOWED_HOSTS') is None \
+"8	LINE	0
+	MaxRequestWorkers 2048
+"9	LINE	0
+	ServerLimit 2048
+""-	CHAR	0
+	#
+
+# Marcas nos arquivos:
+'0  1  0  /etc/tomcat8/server.xml
+'1  87  0  /etc/apache2/sites-enabled/geonode.conf
+'2  77  0  /etc/geonode/local_settings.py
+'3  36  0  /etc/geonode/local_settings.py
+'4  250  0  /etc/geonode/local_settings.py
+'5  380  23  /etc/geonode/local_settings.py
+'6  249  0  /etc/geonode/local_settings.py
+'7  241  22  /etc/geonode/local_settings.py
+'8  251  0  /etc/geonode/local_settings.py
+'9  7  0  /etc/geonode/local_settings.py
+
+# Lista de saltos (mais recente primeiro):
+-'  1  0  /etc/tomcat8/server.xml
+-'  87  0  /etc/apache2/sites-enabled/geonode.conf
+-'  1  0  /etc/apache2/sites-enabled/geonode.conf
+-'  77  0  /etc/geonode/local_settings.py
+-'  1  0  /etc/geonode/local_settings.py
+-'  36  0  /etc/geonode/local_settings.py
+-'  250  0  /etc/geonode/local_settings.py
+-'  144  4  /etc/geonode/local_settings.py
+-'  142  9  /etc/geonode/local_settings.py
+-'  141  9  /etc/geonode/local_settings.py
+-'  140  9  /etc/geonode/local_settings.py
+-'  139  9  /etc/geonode/local_settings.py
+-'  138  9  /etc/geonode/local_settings.py
+-'  380  23  /etc/geonode/local_settings.py
+-'  145  9  /etc/geonode/local_settings.py
+-'  249  0  /etc/geonode/local_settings.py
+-'  162  9  /etc/geonode/local_settings.py
+-'  241  22  /etc/geonode/local_settings.py
+-'  143  9  /etc/geonode/local_settings.py
+-'  251  0  /etc/geonode/local_settings.py
+-'  71  21  /etc/geonode/local_settings.py
+-'  61  21  /etc/geonode/local_settings.py
+-'  7  0  /etc/geonode/local_settings.py
+-'  90  13  /etc/apache2/sites-enabled/geonode.conf
+-'  3  0  /var/www/geonode/wsgi/geonode.wsgi
+-'  1  0  /var/www/geonode/wsgi/geonode.wsgi
+-'  86  13  /etc/apache2/sites-enabled/geonode.conf
+-'  2  15  ~/mostra_IP.sh
+-'  1  0  ~/mostra_IP.sh
+-'  5  4  /etc/apache2/sites-enabled/geonode.conf
+-'  75  0  /etc/apache2/sites-enabled/geonode.conf
+-'  147  8  /etc/tomcat8/server.xml
+-'  1  0  /etc/tomcat8/Catalina/localhost/manager.xml
+-'  1  0  /etc/tomcat8/Catalina/localhost/geoserver.xml
+-'  1  0  /etc/tomcat8/index.html
+-'  128  44  /etc/tomcat8/server.xml
+-'  10  0  /usr/share/geoserver/data/global.xml
+-'  1  0  /usr/share/geoserver/data/global.xml
+-'  1  0  /usr/share/geoserver/WEB-INF/web.xml
+-'  1  0  /usr/share/geoserver/index.html
+-'  58  7  /etc/tomcat8/server.xml
+-'  145  0  /etc/tomcat8/server.xml
+-'  108  67  /etc/tomcat8/server.xml
+-'  44  2  /etc/geonode/local_settings.py
+-'  42  50  /etc/geonode/local_settings.py
+-'  2367  0  /usr/lib/python2.7/dist-packages/virtualenv.py
+-'  1  0  /usr/lib/python2.7/dist-packages/virtualenv.py
+-'  1  0  /usr/share/geoserver/data/logs/PRODUCTION_LOGGING.properties
+-'  1  0  /usr/share/geoserver/data/logs/DEFAULT_LOGGING.properties
+-'  59  4  /usr/share/geonode/config-post.sh
+-'  1  0  /usr/share/geonode/config-post.sh
+-'  43  61  /etc/geonode/local_settings.py
+-'  89  4  /etc/apache2/sites-enabled/geonode.conf
+-'  101  13  /etc/apache2/apache2.conf
+-'  1  0  /etc/apache2/apache2.conf
+-'  99  0  /etc/apache2/apache2.conf
+-'  74  0  /etc/apache2/apache2.conf
+-'  109  2  /etc/apache2/apache2.conf
+-'  1  0  /etc/apache2/conf-enabled/security.conf
+-'  222  0  /etc/apache2/apache2.conf
+-'  95  2  /etc/apache2/apache2.conf
+-'  4  16  /etc/apache2/sites-enabled/geonode.conf
+-'  6  4  /etc/apache2/sites-enabled/geonode.conf
+-'  50  53  /etc/default/tomcat8
+-'  1  0  /etc/default/tomcat8
+-'  22  0  /etc/default/tomcat8
+-'  21  0  /usr/share/geoserver/data/security/filter/geonode-oauth2/config.xml
+-'  1  0  /usr/share/geoserver/data/security/filter/geonode-oauth2/config.xml
+-'  213  30  /etc/apache2/apache2.conf
+-'  542  14  /etc/geonode/local_settings.py
+-'  507  12  /etc/geonode/local_settings.py
+-'  506  47  /etc/geonode/local_settings.py
+-'  498  18  /etc/geonode/local_settings.py
+-'  404  30  /etc/geonode/local_settings.py
+-'  326  34  /etc/geonode/local_settings.py
+-'  327  90  /etc/geonode/local_settings.py
+-'  328  0  /etc/geonode/local_settings.py
+-'  78  60  /etc/geonode/local_settings.py
+-'  151  15  /etc/geonode/local_settings.py
+-'  128  2  /etc/geonode/local_settings.py
+-'  90  4  /etc/geonode/local_settings.py
+-'  407  8  /etc/geonode/local_settings.py
+-'  76  33  /etc/geonode/local_settings.py
+-'  126  2  /etc/geonode/local_settings.py
+-'  88  4  /etc/geonode/local_settings.py
+-'  405  8  /etc/geonode/local_settings.py
+-'  406  8  /etc/geonode/local_settings.py
+-'  1  0  /etc/tomcat8/Catalina/localhost/manager.xml
+-'  1  0  /etc/tomcat8/Catalina/localhost/geoserver.xml
+-'  1  0  /etc/tomcat8/index.html
+-'  77  0  /etc/geonode/local_settings.py
+-'  1  0  /etc/geonode/local_settings.py
+-'  36  0  /etc/geonode/local_settings.py
+-'  87  0  /etc/apache2/sites-enabled/geonode.conf
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> /etc/apache2/sites-enabled/geonode.conf
+	"	87	0
+	^	87	5
+	.	87	4
+	+	6	0
+	+	4	0
+	+	4	0
+	+	5	0
+	+	4	4
+	+	7	0
+	+	6	4
+	+	7	35
+	+	87	0
+	+	89	0
+	+	87	4
+	+	86	5
+	+	87	4
+	+	87	4
+	+	87	58
+	+	89	65
+	+	87	59
+	+	89	66
+	+	86	4
+	+	87	4
+	+	87	4
+	+	89	4
+	+	85	4
+	+	86	4
+	+	87	4
+	+	85	4
+	+	87	4
+	+	85	4
+	+	87	4
+	+	4	4
+	+	5	4
+	+	4	4
+	+	5	4
+	+	85	4
+	+	86	4
+	+	87	0
+	+	88	0
+	+	86	59
+	+	87	4
+
+> /etc/geonode/local_settings.py
+	"	77	0
+	^	250	1
+	.	250	0
+	+	40	0
+	+	39	0
+	+	40	44
+	+	37	63
+	+	38	0
+	+	37	20
+	+	78	0
+	+	77	4
+	+	78	60
+	+	328	0
+	+	327	0
+	+	326	0
+	+	327	52
+	+	327	52
+	+	328	0
+	+	328	0
+	+	327	90
+	+	42	0
+	+	43	0
+	+	46	0
+	+	40	11
+	+	44	0
+	+	42	0
+	+	43	0
+	+	44	57
+	+	44	0
+	+	42	0
+	+	43	0
+	+	44	3
+	+	251	0
+	+	250	31
+	+	250	0
+	+	249	0
+	+	250	28
+	+	251	0
+	+	251	0
+	+	251	0
+	+	252	0
+	+	249	0
+	+	250	0
+	+	249	0
+	+	250	0
+
+> /var/www/geonode/wsgi/geonode.wsgi
+	"	3	0
+
+> ~/mostra_IP.sh
+	"	2	15
+	^	2	16
+	.	2	15
+	+	1	58
+	+	2	15
+
+> /etc/tomcat8/server.xml
+	"	147	8
+	^	128	27
+	.	128	26
+	+	128	0
+	+	145	0
+	+	145	29
+	+	145	30
+	+	108	68
+	+	145	0
+	+	128	44
+	+	108	49
+	+	128	26
+
+> /etc/tomcat8/Catalina/localhost/manager.xml
+	"	1	0
+
+> /etc/tomcat8/Catalina/localhost/geoserver.xml
+	"	1	0
+
+> /etc/tomcat8/index.html
+	"	1	0
+
+> /usr/share/geoserver/data/global.xml
+	"	10	0
+
+> /usr/share/geoserver/WEB-INF/web.xml
+	"	1	0
+
+> /usr/share/geoserver/index.html
+	"	1	0
+
+> /usr/lib/python2.7/dist-packages/virtualenv.py
+	"	2367	0
+
+> /usr/share/geoserver/data/logs/PRODUCTION_LOGGING.properties
+	"	1	0
+
+> /usr/share/geoserver/data/logs/DEFAULT_LOGGING.properties
+	"	1	0
+
+> /usr/share/geonode/config-post.sh
+	"	59	4
+
+> /etc/apache2/apache2.conf
+	"	101	13
+	^	102	14
+	.	102	13
+	+	210	24
+	+	213	31
+	+	109	2
+	+	101	22
+	+	103	0
+	+	100	0
+	+	101	21
+	+	103	0
+	+	102	13
+
+> /etc/apache2/conf-enabled/security.conf
+	"	1	0
+
+> /etc/default/tomcat8
+	"	50	53
+	^	50	54
+	.	50	53
+	+	22	0
+	+	51	80
+	+	51	0
+	+	50	0
+	+	49	0
+	+	50	53
+
+> /usr/share/geoserver/data/security/filter/geonode-oauth2/config.xml
+	"	21	0
